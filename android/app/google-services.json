@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "148215330977",
+    "project_id": "signingappdemo",
+    "storage_bucket": "signingappdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148215330977:android:ca005a02efc283f9e318e0",
+        "android_client_info": {
+          "package_name": "com.dimsi.citelis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148215330977-j02mhefvj1ugenk6g2n3513dje7fmspu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dimsi.citelis",
+            "certificate_hash": "1e7a9243bd37fabcd380146a3cb1e1c956426a9b"
+          }
+        },
+        {
+          "client_id": "148215330977-v26qov3i5pa5bqonep2275kuueubkcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBhM6-nXHF3BtYPxZNz8lmGvp7t09CHmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148215330977-v26qov3i5pa5bqonep2275kuueubkcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
